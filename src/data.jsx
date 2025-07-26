@@ -15,6 +15,7 @@ import {
 import agrosavant from "./assets/AgrosavantHomePage.png";
 import cocktailMixer from "./assets/CocktailMixer.png";
 import TourFinder from "./assets/TourFinder.png";
+import MyShop from "./assets/MyShop.jpg";
 export const links = [
   { id: nanoid(), href: "#home", text: "home" },
   { id: nanoid(), href: "#skills", text: "skills" },
@@ -78,6 +79,14 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
+    img: MyShop,
+    url: "https://mystore-3ut3.onrender.com/",
+    github: "https://github.com/Kulamani6370/mystore",
+    title: "MyStore",
+    text: "An Online Website for the Grocery Store.",
+  },
+  {
+    id: nanoid(),
     img: agrosavant,
     url: "#",
     github: "https://github.com/kulamani6370",
@@ -92,6 +101,7 @@ export const projects = [
     title: "CocktailMixer",
     text: "It gives you the all types of Cocktails present in the world and gives you all the details about that cocktail",
   },
+
   {
     id: nanoid(),
     img: TourFinder,
