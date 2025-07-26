@@ -15,6 +15,7 @@ import {
 import agrosavant from "./assets/AgrosavantHomePage.png";
 import cocktailMixer from "./assets/CocktailMixer.png";
 import TourFinder from "./assets/TourFinder.png";
+import RandomImageGenerator from "./assets/RandomImageGenerator.png";
 import MyShop from "./assets/MyShop.jpg";
 export const links = [
   { id: nanoid(), href: "#home", text: "home" },
@@ -108,6 +109,14 @@ export const projects = [
     url: "https://tourfinder.netlify.app/",
     github: "https://github.com/Kulamani6370/TourFinder",
     title: "Tour Finder App",
-    text: "A Tour finder app that finds you the amazing tours inside INDIA",
+    text: "A Tour finder app that finds you the amazing tours inside INDIA.",
+  },
+  {
+    id: nanoid(),
+    img: RandomImageGenerator,
+    url: "https://unsplash-image-ai.netlify.app/",
+    github: "https://github.com/Kulamani6370/Image-Generator",
+    title: "Random Image Generator",
+    text: "A simple react application that uses the unsplash api to generate the images.",
   },
 ];
