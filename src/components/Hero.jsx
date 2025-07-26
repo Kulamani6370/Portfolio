@@ -24,7 +24,7 @@ const Hero = () => {
             <a href="https://www.linkedin.com/in/kulamani-mohanta-85448424b/">
               <FaLinkedin className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
             </a>
-            <a href="https://x.com/">
+            <a href="https://x.com/KULAMANI_NOV_10">
               <FaTwitterSquare className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
             </a>
           </div>
