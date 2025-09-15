@@ -10,6 +10,17 @@ const Qualifications = () => {
         {/* <!-- Qualification Card --> */}
         <div class="bg-gray-50 rounded-xl shadow p-6 hover:shadow-md transition">
           <h3 class="text-xl font-semibold text-gray-800">
+            M.Tech in Computer Science & Engineering
+          </h3>
+          <p class="text-sm text-gray-600 mt-1 r">
+            National Institute of Technology Puducherry | 2025 – 2027
+          </p>
+
+          <p class="text-sm text-gray-500">CGPA: --</p>
+        </div>
+        {/* <!-- Qualification Card --> */}
+        <div class="bg-gray-50 rounded-xl shadow p-6 hover:shadow-md transition">
+          <h3 class="text-xl font-semibold text-gray-800">
             B.Tech in Computer Science & Engineering
           </h3>
           <p class="text-sm text-gray-600 mt-1 r">

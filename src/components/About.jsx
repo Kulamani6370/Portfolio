@@ -9,13 +9,15 @@ const About = () => {
         <article>
           <SectionTitle text="Behind the code" />
           <p className="text-slate-600 mt-8 leading-loose">
-            I'm Kulamani Mohanta, a fresher Computer Science and Engineering
-            graduate with expertise in full stack development, specializing in
+            I'm Kulamani Mohanta, a M.Tech (Computer Science and Engineering)
+            student with expertise in full stack development, specializing in
             the MERN stack. I'm passionate about building scalable,
             user-friendly web applications and have completed certifications
-            like IBM Full Stack Software Developer. I enjoy solving real-world
+            like IBM Full Stack Software Developer.I have expertise in AI & ML
+            with hands on experiece in projects.I enjoy solving real-world
             problems through tech and am currently exploring opportunities to
-            contribute and grow in the software development field
+            contribute and grow in the software development field and in AI/ML
+            field.
           </p>
         </article>
       </div>
