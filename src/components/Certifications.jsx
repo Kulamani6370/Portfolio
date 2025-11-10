@@ -21,7 +21,7 @@ const Certifications = () => {
           </a>
           <div class="p-4">
             <h3 class="text-lg font-semibold text-gray-800">
-              IBM Full Stack Software Development
+              IBM Full Stack Software Developer
             </h3>
             <p class="text-sm text-gray-500">IBM via Coursera</p>
           </div>
