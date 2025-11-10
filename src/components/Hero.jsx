@@ -5,7 +5,7 @@ import heroImg from "../assets/Hero_with_photo-removebg-preview.jpg";
 import { FaGithubSquare, FaLinkedin, FaTwitterSquare } from "react-icons/fa";
 const Hero = () => {
   return (
-    <div className="bg-emerald-200 py-60" id="home">
+    <div className="bg-emerald-200 py-40" id="home">
       <div className="mx-auto max-w-7xl px-8 grid md:grid-cols-2 items-center gap-8">
         <article>
           <h1 className="text-7xl font-bold tracking-wider">
